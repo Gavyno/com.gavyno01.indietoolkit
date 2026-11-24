@@ -1,0 +1,11 @@
+{
+    "name": "Gavyno01.Indietoolkit.Tests",
+    "references": [
+        "Gavyno01.Indietoolkit"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Gavyno01.Indietoolkit.Editor.Tests",
+    "references": [
+        "Gavyno01.Indietoolkit.Editor",
+        "Gavyno01.Indietoolkit"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

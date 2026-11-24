@@ -1,0 +1,10 @@
+{
+    "name": "Gavyno01.Indietoolkit.Editor",
+    "references": [
+      "Gavyno01.Indietoolkit"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
